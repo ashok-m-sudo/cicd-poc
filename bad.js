@@ -3,3 +3,8 @@ function unused() {
   var y = 20;
   return;
 }
+
+function unused2() {
+  var a = 30;
+  return;
+}
